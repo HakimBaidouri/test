@@ -20,4 +20,4 @@ Citation de code 3
 
 Lien vers [Mon dashboard](https://github.com/)
 
-![C'est ours polaire!](/Ours_polaire.jpg)
+![C'est ours polaire!](https://ds.static.rtbf.be/article/image/1920x1080/b/1/a/9b523b0c92185f39a0da77a82c51b46a-1701696911.jpg)

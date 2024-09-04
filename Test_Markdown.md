@@ -19,3 +19,5 @@ Citation de code 3
 ```
 
 Lien vers [Mon dashboard](https://github.com/)
+
+![C'est ours polaire!](/Ours_polaire.jpg)
